@@ -16,6 +16,8 @@ body {
 h1 {
     padding-top: 30px;
     margin-top: 0px;
+    text-align: center;
+    font-size: 48px;
 }
 
 #latnivalok {
@@ -76,3 +78,7 @@ table, table th, table td
   text-align: center;
 }
 
+#fejlec{
+    background-image: url(notredame.jpg);
+    height: 200px;
+}
